@@ -1,0 +1,175 @@
+﻿@using Academic_Blog.PayLoad.Response;
+@using Academic_Blog_App.Services;
+@using Microsoft.AspNetCore.Http;
+@using Academic_Blog_App.Services.Helper;
+@{
+    var loginAccount = SessionHelper.GetObjectFromJson<LoginResponse>(ViewContext.HttpContext.Session, "Account");
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>@ViewData["Title"] - Academic Blog App</title>
+    <!-- <link rel="stylesheet" href="~/Academic_Blog_App.styles.css" asp-append-version="true" /> -->
+    <!-- Basic -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <!-- Site Metas -->
+    <meta name="keywords" content="ABlog" />
+    <meta name="description" content="Academic_Blog" />
+    <meta name="author" content="AB_FPTU" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- slider stylesheet -->
+    <link rel="stylesheet" type="text/css"
+          href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.3/assets/owl.carousel.min.css" asp-append-version="true">
+
+    <!-- font wesome stylesheet -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" asp-append-version="true">
+
+    <!-- bootstrap core css -->
+    <link rel="stylesheet" type="text/css" href="~/css/bootstrap.css" asp-append-version="true" />
+
+    <!-- fonts style -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,600,700&display=swap" rel="stylesheet" asp-append-version="true">
+    <!-- Custom styles for this template -->
+    <link href="~/css/style.css" rel="stylesheet" asp-append-version="true" />
+    <!-- responsive style -->
+    <link href="~/css/responsive.css" rel="stylesheet" asp-append-version="true" />
+    <!-- login style -->
+    <link href="~/css/login.css" rel="stylesheet" asp-append-version="true" />
+    <!-- tinyMCE -->
+    <script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+    <script>
+        tinymce.init({
+            selector: '#mytextarea',
+            statusbar: false
+        });
+    </script>
+</head>
+
+<body class="sub_page" style="margin-top: 75px;">
+    <div class="hero_area fixed-top">
+        <!-- header section strats -->
+        <header class="header_section">
+            <div class="container">
+                <nav class="navbar navbar-expand-lg custom_nav-container pt-3">
+                    <a class="navbar-brand mr-5" asp-page="/index">
+                        <img src="~/images/logo.png" alt="">
+                        <span>
+                            Academic Blog
+                        </span>
+                    </a>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <div class="d-flex ml-auto flex-column flex-lg-row align-items-center" style="margin: auto !important">
+                            <ul class="navbar-nav  ">
+                                <li class="nav-item ">
+                                    <a class="nav-link" asp-page="/index">Home <span class="sr-only">(current)</span></a>
+                                </li>
+                                <li class="nav-item active">
+                                    <a class="nav-link" asp-page="/about">About</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-page="/BlogPage/ViewAllBlog">Post</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-page="/Privacy">Privacy</a>
+                                </li>
+                            </ul>
+                        </div>
+                        @if (loginAccount != null)
+                        {
+                            <div class="d-flex ml-auto flex-column flex-lg-row align-items-center">
+                                <ul class="navbar-nav">
+                                    <li class="nav-item dropdown">
+                                        @if (loginAccount.Role.Equals("Student"))
+                                        {
+
+                                            <a href="#" class="nav-link dropdown-toggle text-decoration-none text-dark" data-toggle="dropdown">
+                                                Welcome, @loginAccount.Name
+                                            </a>
+                                            <div class="dropdown-menu bg-dark rounded-0 border-0 m-0">
+                                                <a asp-page="/UserPage/StudentProfile" class="dropdown-item text-light">Profile</a>
+                                                <a asp-page="/BlogPage/CreateNewBlog" class="dropdown-item text-light">Create Post</a>
+                                                <a asp-page="/HomePage/Logout" class="dropdown-item text-light">Logout</a>
+                                            </div>
+
+                                        }
+                                        else
+                                        {
+                                            <a href="#" class="nav-link dropdown-toggle text-decoration-none text-dark" data-toggle="dropdown">
+                                                Welcome, @loginAccount.Name
+                                            </a>
+                                            <div class="dropdown-menu bg-dark rounded-0 border-0 m-0">
+                                                <a asp-page="/UserPage/LectureProfile" class="dropdown-item text-light">Profile</a>
+                                                <a asp-page="/BlogPage/CreateNewBlog" class="dropdown-item text-light">View Post</a>
+                                                <a asp-page="/HomePage/Logout" class="dropdown-item text-light">Logout</a>
+                                            </div>
+                                        }
+                                    </li>
+                                </ul>
+                            </div>
+                        }
+                        else
+                        {
+                            <div class="d-flex ml-auto flex-column flex-lg-row align-items-center">
+                                <ul class="navbar-nav">
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="/HomePage/Login">Login</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        }
+                    </div>
+                </nav>
+            </div>
+        </header>
+        <!-- end header section -->
+    </div>
+
+    @RenderBody()
+
+    <!-- info section -->
+    <section class="info_section layout_padding" style="margin-bottom: 50px">
+        <div class="footer_contact">
+            <div class="heading_container">
+                <h2>
+                    Contact Us
+                </h2>
+            </div>
+            <div class="box">
+                <a href="" class="img-box">
+                    <img src="~/images/location.png" alt="" class="img-1">
+                    <img src="~/images/location-o.png" alt="" class="img-2">
+                </a>
+                <a href="" class="img-box">
+                    <img src="~/images/call.png" alt="" class="img-1">
+                    <img src="~/images/call-o.png" alt="" class="img-2">
+                </a>
+                <a href="" class="img-box">
+                    <img src="~/images/envelope.png" alt="" class="img-1">
+                    <img src="~/images/envelope-o.png" alt="" class="img-2">
+                </a>
+            </div>
+        </div>
+
+
+    </section>
+    <!-- end info section -->
+    <!-- footer section -->
+    <section class="container-fluid footer_section fixed-bottom" style="padding: 30px !important;">
+        <p>
+            Copyright &copy; 2019 All Rights Reserved By
+            <a href="https://html.design/">Free Html Templates</a>
+        </p>
+    </section>
+    <!-- end footer section -->
+
+ 
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

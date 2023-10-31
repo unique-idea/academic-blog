@@ -1,0 +1,303 @@
+﻿@page
+@model Academic_Blog_App.Pages.BlogPage.ViewBlogDetailModel
+@{
+    var Login = ViewData["Login"]?.ToString();
+}
+
+<style>
+    .box {
+        border: 1px solid black;
+    }
+
+        .box h2 {
+            margin: 20px 0;
+            margin-left: auto;
+            margin-right: auto;
+            font-size: 38px;
+            font-weight: bold;
+            text-align: center !important;
+        }
+
+    .blog-interact-view {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+        .blog-interact-view i {
+            margin-left: 10px;
+        }
+
+        .blog-interact-view .comment {
+            margin-right: 10px;
+        }
+
+    .blog-interact {
+        height: 50px;
+        border-top: 1px solid black;
+        border-bottom: 1px solid black;
+        border-left: none;
+        border-right: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+        .blog-interact i {
+            margin-left: 12px;
+        }
+
+    button {
+        border: none;
+        background: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .modal {
+        display: none;
+        position: fixed;
+        z-index: 9999;
+        top: 35%;
+        bottom: 50%;
+        left: 34%;
+        width: 400px;
+        height: 200px;
+    }
+
+    .model-content {
+        background-color: blue;
+        padding: 20px;
+        border: 1px solid #888;
+    }
+
+    .report-model-finish {
+        opacity: 50%;
+        transition: opacity 0.1s ease-in-out;
+    }
+
+        .report-model-finish:hover {
+            opacity: 85%;
+        }
+</style>
+
+<div class="body_bg layout_padding" style="padding: 40px;">
+    <section class="service_section">
+        <div class="container">
+            <div class="row" style="margin: 40px 0;">
+                @foreach (var acc in Model.Accounts)
+                {
+                    if (acc.Id == Model.Blog.AuthorId)
+                    {
+                        <div class="col-md-2">
+                            <img class="rounded-circle shadow" src="~/@acc.Avatar" alt="" style="width: 150px; height: 150px ;" />
+                        </div>
+                        <div class="col-md-10" style="display: block; margin: auto 0; padding-right: 20px;">
+                            <h5 style="margin: 0; font-weight: 700; font-size: 24px; ">
+                                @acc.Name
+                            </h5>
+                            <div style="color: black; opacity: 50%">UD:  @Model.Blog.UpdatedTime</div>
+                        </div>
+                    }
+                }
+            </div>
+            <div class="box" style="width: 100% !important; ">
+                <h2>@Model.Blog.Title</h2>
+                <p style="margin: 12px 0; font-size: 20px; padding: 10px 0;">
+                    @Model.Blog.Description
+                </p>
+            </div>
+            <div class="blog-interact-view">
+                <div id="blogView">
+                    <i class="fa fa-eye"  style="font-size:30px;color:black">@Model.Blog.View</i>
+                </div>          
+                <div class="comment" id="blogComment">
+                    @Model.Comments.Count Comments
+                </div>
+            </div>
+            <div class="blog-interact">
+                @if (!string.IsNullOrEmpty(Login))
+                {
+                    <i class="fa fa-commenting-o" style="font-size:35px" onclick="openComment()"> Comment </i>
+                }
+                else
+                {
+                    <i class="fa fa-commenting-o" style="font-size:35px"> Comment </i>
+
+                }
+            </div>
+        </div>
+    </section>
+    <section class="comments_section">
+
+        @foreach (var comment in Model.Comments)
+        {
+            @if (comment.ReplyToId == null)
+            {
+                var feedBack = 0;
+                @foreach (var feed in Model.Comments)
+                {
+                    @if (feed.ReplyToId == comment.Id)
+                    {
+                        feedBack += 1;
+                    }
+                }
+                @foreach (var acc in Model.Accounts)
+                {
+                    @if (comment.CommentorId == acc.Id)
+                    {
+                        <div class="comment-blog-container" id="commentBlog" style="height: auto; width: 590px; margin-left: 205px; position: relative; margin-top: 15px; display: none;">                  
+                            <form method="get" id="formInputNewComment">
+                                <span class="avatar">
+                                    <img class="rounded-circle shadow" src="~/@acc.Avatar" alt="" style="width: 50px; height: 50px; float: left; margin-right: 30px; margin-top: 5px;" />
+                                </span>
+                                <input type="text" id="inputComment" name="inputComment" required maxlength="200" pattern=".*[^ ].*" placeholder="Enter Comment" style="height: 55px; width: 490px; border-radius: 10px; background-color: gainsboro; border: 1px solid; " />
+                                <button type="submit" class="submit-comment-btn" data-blog-id="@comment.Id" style="color: green; font-size: 17px;">
+                                    Submit
+                                </button>
+                            </form>
+                        </div>
+                        <div class="new-comment-container" id="newComment" style="">
+                        </div>
+                        <div class="comment-container">
+                            <div class="commentor row" style="padding-left: 210px; clear: both; height: auto; width:720px;">
+                                <div class="commentor-infor" style="height: auto; width: 500px; border-radius: 10px; margin: 10px; border: 1px solid rgba(0, 0, 0, 0.5); background-color:  rgba(128, 128, 128, 0.5);">
+                                    <span class="avatar">
+                                        <img class="rounded-circle shadow" src="~/@acc.Avatar" alt="" style="width: 50px; height: 50px; float: left; margin-right: 30px; margin-top: 5px;" />
+                                    </span>
+                                    <div style="font-weight: 700; font-size: 24px; ">
+                                        @acc.Name
+                                    </div>
+                                    <div style="color: black; opacity: 80%;">
+                                        @comment.Content
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="commentor-interact row" style="margin-left: 210px; clear: both; color: black; opacity: 80%;">
+                                @if (!string.IsNullOrEmpty(Login))
+                                {
+                                    <button type="button" style="display: inline-block; margin-right: 10px; color: yellow; margin-bottom: 10px; font-size: 18px" id="report-@comment.Id" onclick="openReport('@comment.Id')">Report</button>
+                                }                     
+                                <div id="formReply-@comment.Id" class="form-reply" style="display: inline-block; margin-right: 10px;">
+                                    <form method="get">
+                                        <div>
+                                            <button class="feedback-btn" id="feedback-@comment.Id" data-comment-id="@comment.Id" data-spadding-int="210" type="submit" style="color: green; font-size: 17px;">@feedBack FeedBack</button>
+                                        </div>
+                                    </form>
+                                </div>
+                                @if (!string.IsNullOrEmpty(Login))
+                                {
+                                    <button class="reply-btn" type="button" style="display: inline-block; color: black; margin-bottom: 10px; font-size: 17px;" id="reply-@comment.Id" onclick="openReply('@comment.Id')">Reply</button>
+                                }                     
+                            </div>
+                        </div>
+                        <div class="comment-container" id="@comment.Id" style="">
+                        </div>
+                        <div class="reply-container" id="replyContainer-@comment.Id" style="height: auto; width: 590px; margin-left: 255px; position: relative; display: none;">
+                            <input type="text" id="inputReplyComment-@comment.Id" name="inputReplyComment" required maxlength="200" pattern=".*[^ ].*" placeholder="Enter Reply" style="height: 55px; width: 440px; border-radius: 10px; background-color: gainsboro; border: 1px solid; " />
+                            <form method="get">
+                                <button type="submit" class="submit-reply-btn" data-reply-comment-id="@comment.Id" data-spadding-int="255" style="color: green; font-size: 17px;">
+                                    Submit
+                                </button>
+                            </form>
+                        </div>
+                    }
+                }
+            }
+        }
+    </section>
+    <section class="report-model">
+        <div id="modal" class="modal">
+            <div class="model-content">
+                <form method="post" id="reportModel">
+                    <h3 style="color: white; text-align: center">
+                        Report This Comment ?
+                    </h3>
+                    <span class="text-center" style="justify-content: center">
+                        <select class="report-model-reason" name="reasonSelected" style="width: 180px; font-size: 24px; height: 40px; text-align: center; margin-left: 85px; color: yellow;">
+                            <option value="Toxic" selected">
+                                Toxic
+                            </option>
+                            <option value="AbusiveLanguage">
+                                Abusive Language
+                            </option>
+                            <option value="Irrelevant">
+                                Irrelevant
+                            </option>
+                            <option value="Unrespect">
+                                Unrespect
+                            </option>
+                        </select>
+                    </span>
+                    <div class="report-model-popup-btn">
+                        <span>
+                            <button type="button" class="close" style="font-size: 27px; color: red; margin-right: 50px; margin-top: 17px;">
+                                Close
+                            </button>
+                        </span>
+                        <span>
+                            <input type="hidden" class="report-model-comment-id" id="reportModelCommentId" name="reportModelCommentId" value="" />
+                            <button type="submit" class="report-model-finish" style="font-size: 24px; color: red; margin-left: 50px; margin-top: 15px; text-shadow: 1px 1px 0 rgba(255, 255, 255, 1); font-weight: bold;">
+                                Report
+                            </button>
+                        </span>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </section>
+</div>
+<script>
+
+    function openReport(commentId) {
+        console.log("Report run in with id report: " + commentId);
+        var commentIdInput = document.querySelector(".report-model-comment-id");
+        commentIdInput.value = commentId;
+
+        $('#modal').show();
+        console.log("Comment Id Tranfer: " + commentIdInput.value);
+        function closeReportModel() {
+            $('#modal').hide();
+        }
+
+        $('.modal .close').click(function () {
+            closeReportModel();
+        });
+    }
+
+    function openReply(commentId) {
+        if ($('#replyContainer-' + commentId).is(':visible')) {
+
+            $('#replyContainer-' + commentId).hide();
+            return;
+        } else {
+            $('#replyContainer-' + commentId).show();
+            return;
+        }
+    }
+
+    function openComment() {
+        if ($('#commentBlog').is(':visible')) {
+
+            $('#commentBlog').hide();
+            return;
+        } else {
+            $('#commentBlog').show();
+            return;
+        }
+    }
+
+</script>
+
+
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" src="~/js/jquery-3.4.1.min.js"></script>
+<script type="text/javascript" src="~/js/bootstrap.js"></script>
+<script src="~/lib/microsoft/signalr/dist/browser/signalr.js"></script>
+<script src="~/lib/microsoft/signalr/dist/browser/signalr.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/3.1.10/signalr.min.js"></script>
+<script src="~/js/site.js?v=1.3"></script>

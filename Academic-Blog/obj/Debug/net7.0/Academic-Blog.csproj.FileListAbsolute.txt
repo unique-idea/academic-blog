@@ -1,0 +1,1355 @@
+D:\AB_FPTU\Academic-Blog\Academic-Blog\obj\Debug\net7.0\Academic-Blog.csproj.AssemblyReference.cache
+D:\AB_FPTU\Academic-Blog\Academic-Blog\obj\Debug\net7.0\Academic-Blog.GeneratedMSBuildEditorConfig.editorconfig
+D:\AB_FPTU\Academic-Blog\Academic-Blog\obj\Debug\net7.0\Academic-Blog.AssemblyInfoInputs.cache
+D:\AB_FPTU\Academic-Blog\Academic-Blog\obj\Debug\net7.0\Academic-Blog.AssemblyInfo.cs
+D:\AB_FPTU\Academic-Blog\Academic-Blog\obj\Debug\net7.0\Academic-Blog.csproj.CoreCompileInputs.cache
+D:\AB_FPTU\Academic-Blog\Academic-Blog\obj\Debug\net7.0\Academic-Blog.MvcApplicationPartsAssemblyInfo.cs
+D:\AB_FPTU\Academic-Blog\Academic-Blog\obj\Debug\net7.0\Academic-Blog.MvcApplicationPartsAssemblyInfo.cache
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\appsettings.Development.json
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\appsettings.json
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Academic-Blog.exe
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Academic-Blog.deps.json
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Academic-Blog.runtimeconfig.json
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Academic-Blog.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Academic-Blog.pdb
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\AutoMapper.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Azure.Core.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Azure.Identity.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\EPPlus.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\EPPlus.Interfaces.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Humanizer.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.AspNetCore.OData.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.Build.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.OData.Core.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.OData.Edm.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.OData.ModelBuilder.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.Spatial.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\NuGet.Common.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\System.CodeDom.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\System.Memory.Data.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Academic-Blog.Domain.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Academic-Blog.Repository.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Academic-Blog.Domain.pdb
+D:\AB_FPTU\Academic-Blog\Academic-Blog\bin\Debug\net7.0\Academic-Blog.Repository.pdb
+D:\AB_FPTU\Academic-Blog\Academic-Blog\obj\Debug\net7.0\staticwebassets\msbuild.Academic-Blog.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AB_FPTU\Academic-Blog\Academic-Blog\obj\Debug\net7.0\staticwebassets\msbuild.build.Academic-Blog.props
+D:\AB_FPTU\Academic-Blog\Academic-Blog\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Academic-Blog.props
+D:\AB_FPTU\Academic-Blog\Academic-Blog\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Academic-Blog.props
+D:\AB_FPTU\Academic-Blog\Academic-Blog\obj\Debug\net7.0\staticwebassets.pack.json
+D:\AB_FPTU\Academic-Blog\Academic-Blog\obj\Debug\net7.0\staticwebassets.build.json
+D:\AB_FPTU\Academic-Blog\Academic-Blog\obj\Debug\net7.0\staticwebassets.development.json
+D:\AB_FPTU\Academic-Blog\Academic-Blog\obj\Debug\net7.0\scopedcss\bundle\Academic-Blog.styles.css
+D:\AB_FPTU\Academic-Blog\Academic-Blog\obj\Debug\net7.0\Academic-Blog.csproj.CopyComplete
+D:\AB_FPTU\Academic-Blog\Academic-Blog\obj\Debug\net7.0\Academic-Blog.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\obj\Debug\net7.0\refint\Academic-Blog.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog\obj\Debug\net7.0\Academic-Blog.pdb
+D:\AB_FPTU\Academic-Blog\Academic-Blog\obj\Debug\net7.0\Academic-Blog.genruntimeconfig.cache
+D:\AB_FPTU\Academic-Blog\Academic-Blog\obj\Debug\net7.0\ref\Academic-Blog.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\appsettings.Development.json
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\appsettings.json
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.exe
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.deps.json
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.runtimeconfig.json
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.pdb
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\AutoMapper.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Azure.Core.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Azure.Identity.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\EPPlus.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\EPPlus.Interfaces.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Humanizer.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.AspNetCore.OData.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Build.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.OData.Core.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.OData.Edm.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.OData.ModelBuilder.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Spatial.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.Common.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.CodeDom.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Memory.Data.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.Domain.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.Repository.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.Domain.pdb
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.Repository.pdb
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.csproj.AssemblyReference.cache
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.AssemblyInfoInputs.cache
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.AssemblyInfo.cs
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.csproj.CoreCompileInputs.cache
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.MvcApplicationPartsAssemblyInfo.cs
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.MvcApplicationPartsAssemblyInfo.cache
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\staticwebassets\msbuild.Academic-Blog.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\staticwebassets\msbuild.build.Academic-Blog.props
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Academic-Blog.props
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Academic-Blog.props
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\staticwebassets.pack.json
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\staticwebassets.build.json
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\staticwebassets.development.json
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\scopedcss\bundle\Academic-Blog.styles.css
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.csproj.CopyComplete
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\refint\Academic-Blog.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.pdb
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.genruntimeconfig.cache
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\ref\Academic-Blog.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\appsettings.Development.json
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\appsettings.json
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.exe
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.deps.json
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.runtimeconfig.json
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.pdb
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\AutoMapper.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Azure.Core.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Azure.Identity.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\EPPlus.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\EPPlus.Interfaces.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Humanizer.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.AspNetCore.OData.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Build.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.OData.Core.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.OData.Edm.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.OData.ModelBuilder.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Spatial.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.Common.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.CodeDom.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Memory.Data.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.Domain.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.Repository.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.Domain.pdb
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.Repository.pdb
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.csproj.AssemblyReference.cache
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.GeneratedMSBuildEditorConfig.editorconfig
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.AssemblyInfoInputs.cache
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.AssemblyInfo.cs
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.csproj.CoreCompileInputs.cache
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.MvcApplicationPartsAssemblyInfo.cs
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.MvcApplicationPartsAssemblyInfo.cache
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\staticwebassets\msbuild.Academic-Blog.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\staticwebassets\msbuild.build.Academic-Blog.props
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Academic-Blog.props
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Academic-Blog.props
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\staticwebassets.pack.json
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\staticwebassets.build.json
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\staticwebassets.development.json
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\scopedcss\bundle\Academic-Blog.styles.css
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.csproj.CopyComplete
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\refint\Academic-Blog.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.pdb
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.genruntimeconfig.cache
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\ref\Academic-Blog.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\appsettings.Development.json
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\appsettings.json
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.exe
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.deps.json
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.runtimeconfig.json
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.pdb
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\AutoMapper.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Azure.Core.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Azure.Identity.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\EPPlus.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\EPPlus.Interfaces.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Humanizer.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.AspNetCore.OData.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Build.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.OData.Core.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.OData.Edm.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.OData.ModelBuilder.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Spatial.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.Common.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.CodeDom.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Memory.Data.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.Domain.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.Repository.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.Domain.pdb
+D:\EXE_2710\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.Repository.pdb
+D:\EXE_2710\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.csproj.AssemblyReference.cache
+D:\EXE_2710\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.GeneratedMSBuildEditorConfig.editorconfig
+D:\EXE_2710\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.AssemblyInfoInputs.cache
+D:\EXE_2710\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.AssemblyInfo.cs
+D:\EXE_2710\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.csproj.CoreCompileInputs.cache
+D:\EXE_2710\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.MvcApplicationPartsAssemblyInfo.cs
+D:\EXE_2710\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.MvcApplicationPartsAssemblyInfo.cache
+D:\EXE_2710\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\staticwebassets\msbuild.Academic-Blog.Microsoft.AspNetCore.StaticWebAssets.props
+D:\EXE_2710\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\staticwebassets\msbuild.build.Academic-Blog.props
+D:\EXE_2710\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Academic-Blog.props
+D:\EXE_2710\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Academic-Blog.props
+D:\EXE_2710\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\staticwebassets.pack.json
+D:\EXE_2710\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\staticwebassets.build.json
+D:\EXE_2710\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\staticwebassets.development.json
+D:\EXE_2710\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\scopedcss\bundle\Academic-Blog.styles.css
+D:\EXE_2710\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.csproj.CopyComplete
+D:\EXE_2710\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\refint\Academic-Blog.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.pdb
+D:\EXE_2710\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.genruntimeconfig.cache
+D:\EXE_2710\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\ref\Academic-Blog.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\appsettings.Development.json
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\appsettings.json
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.exe
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.deps.json
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.runtimeconfig.json
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.pdb
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\AutoMapper.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Azure.Core.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Azure.Identity.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\EPPlus.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\EPPlus.Interfaces.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Humanizer.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.AspNetCore.OData.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Build.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.OData.Core.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.OData.Edm.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.OData.ModelBuilder.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Spatial.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.Common.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.Configuration.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.Frameworks.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.LibraryModel.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.Packaging.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.ProjectModel.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.Protocol.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\NuGet.Versioning.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.CodeDom.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Composition.Convention.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Composition.Hosting.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Composition.Runtime.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Composition.TypedParts.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Memory.Data.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\af\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ar\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\az\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\bg\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\da\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\el\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fa\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\he\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\hr\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\hu\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\hy\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\id\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\is\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ku\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\lv\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\mt\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\nb\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\nl\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ro\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\sk\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\sl\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\sr\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\sv\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\uk\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\vi\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.Domain.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.Repository.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.Domain.pdb
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\bin\Debug\net7.0\Academic-Blog.Repository.pdb
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.csproj.AssemblyReference.cache
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.AssemblyInfoInputs.cache
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.AssemblyInfo.cs
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.csproj.CoreCompileInputs.cache
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.MvcApplicationPartsAssemblyInfo.cs
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.MvcApplicationPartsAssemblyInfo.cache
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\staticwebassets\msbuild.Academic-Blog.Microsoft.AspNetCore.StaticWebAssets.props
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\staticwebassets\msbuild.build.Academic-Blog.props
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Academic-Blog.props
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Academic-Blog.props
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\staticwebassets.pack.json
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\staticwebassets.build.json
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\staticwebassets.development.json
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\scopedcss\bundle\Academic-Blog.styles.css
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.csproj.CopyComplete
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\refint\Academic-Blog.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.pdb
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\Academic-Blog.genruntimeconfig.cache
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog\obj\Debug\net7.0\ref\Academic-Blog.dll

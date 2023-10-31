@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Academic-Blog-App.props" />
+</Project>

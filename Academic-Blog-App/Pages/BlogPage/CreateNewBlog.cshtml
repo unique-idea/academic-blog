@@ -1,0 +1,27 @@
+﻿@page
+@model Academic_Blog_App.Pages.BlogPage.CreateNewBlogModel
+@{
+
+}
+
+
+
+<div class="body_bg layout_padding" style="padding: 40px;">
+    <section class="service_section">
+        <div class="container">
+            <div class="box" style="width: 100% !important">
+                <h2 style="margin: 20px 0; font-weight: bold;">Tiêu đề</h2>
+                <textarea class="mb-2" style="width: 100%" pattern=".*[^ ].*" required
+                          placeholder="Tiêu đề"></textarea>
+                <h3 style="margin: 20px 0; font-weight: bold;">Categories</h3>
+                <textarea class="mb-2" style="width: 100%" pattern=".*[^ ].*" required
+                          placeholder="Categories"></textarea>
+                <h3 style="margin: 20px 0; font-weight: bold;">Mô tả</h3>
+                <form method="post" style="width: 100%">
+                    <textarea id="mytextarea" pattern=".*[^ ].*" required>Nhập nội dung bài đăng tại đây.</textarea>
+                </form>
+            </div>
+            <div class=""></div>
+        </div>
+    </section>
+</div>

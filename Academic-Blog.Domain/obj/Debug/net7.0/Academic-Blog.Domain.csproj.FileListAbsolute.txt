@@ -1,0 +1,70 @@
+D:\AB_FPTU\Academic-Blog\Academic-Blog.Domain\bin\Debug\net7.0\Academic-Blog.Domain.deps.json
+D:\AB_FPTU\Academic-Blog\Academic-Blog.Domain\bin\Debug\net7.0\Academic-Blog.Domain.runtimeconfig.json
+D:\AB_FPTU\Academic-Blog\Academic-Blog.Domain\bin\Debug\net7.0\Academic-Blog.Domain.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog.Domain\bin\Debug\net7.0\Academic-Blog.Domain.pdb
+D:\AB_FPTU\Academic-Blog\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.csproj.AssemblyReference.cache
+D:\AB_FPTU\Academic-Blog\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\AB_FPTU\Academic-Blog\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.AssemblyInfoInputs.cache
+D:\AB_FPTU\Academic-Blog\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.AssemblyInfo.cs
+D:\AB_FPTU\Academic-Blog\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.csproj.CoreCompileInputs.cache
+D:\AB_FPTU\Academic-Blog\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog.Domain\obj\Debug\net7.0\refint\Academic-Blog.Domain.dll
+D:\AB_FPTU\Academic-Blog\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.pdb
+D:\AB_FPTU\Academic-Blog\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.genruntimeconfig.cache
+D:\AB_FPTU\Academic-Blog\Academic-Blog.Domain\obj\Debug\net7.0\ref\Academic-Blog.Domain.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog.Domain\bin\Debug\net7.0\Academic-Blog.Domain.deps.json
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog.Domain\bin\Debug\net7.0\Academic-Blog.Domain.runtimeconfig.json
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog.Domain\bin\Debug\net7.0\Academic-Blog.Domain.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog.Domain\bin\Debug\net7.0\Academic-Blog.Domain.pdb
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.csproj.AssemblyReference.cache
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.AssemblyInfoInputs.cache
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.AssemblyInfo.cs
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.csproj.CoreCompileInputs.cache
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\refint\Academic-Blog.Domain.dll
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.pdb
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.genruntimeconfig.cache
+D:\FPT Leaner\PRN231\Group_Project\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\ref\Academic-Blog.Domain.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog.Domain\bin\Debug\net7.0\Academic-Blog.Domain.deps.json
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog.Domain\bin\Debug\net7.0\Academic-Blog.Domain.runtimeconfig.json
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog.Domain\bin\Debug\net7.0\Academic-Blog.Domain.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog.Domain\bin\Debug\net7.0\Academic-Blog.Domain.pdb
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.csproj.AssemblyReference.cache
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.AssemblyInfoInputs.cache
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.AssemblyInfo.cs
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.csproj.CoreCompileInputs.cache
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\refint\Academic-Blog.Domain.dll
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.pdb
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.genruntimeconfig.cache
+D:\AB_FPTU_2410\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\ref\Academic-Blog.Domain.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog.Domain\bin\Debug\net7.0\Academic-Blog.Domain.deps.json
+D:\EXE_2710\academic-blog-backend\Academic-Blog.Domain\bin\Debug\net7.0\Academic-Blog.Domain.runtimeconfig.json
+D:\EXE_2710\academic-blog-backend\Academic-Blog.Domain\bin\Debug\net7.0\Academic-Blog.Domain.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog.Domain\bin\Debug\net7.0\Academic-Blog.Domain.pdb
+D:\EXE_2710\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.csproj.AssemblyReference.cache
+D:\EXE_2710\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\EXE_2710\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.AssemblyInfoInputs.cache
+D:\EXE_2710\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.AssemblyInfo.cs
+D:\EXE_2710\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.csproj.CoreCompileInputs.cache
+D:\EXE_2710\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\refint\Academic-Blog.Domain.dll
+D:\EXE_2710\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.pdb
+D:\EXE_2710\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.genruntimeconfig.cache
+D:\EXE_2710\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\ref\Academic-Blog.Domain.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog.Domain\bin\Debug\net7.0\Academic-Blog.Domain.deps.json
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog.Domain\bin\Debug\net7.0\Academic-Blog.Domain.runtimeconfig.json
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog.Domain\bin\Debug\net7.0\Academic-Blog.Domain.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog.Domain\bin\Debug\net7.0\Academic-Blog.Domain.pdb
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.csproj.AssemblyReference.cache
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.AssemblyInfoInputs.cache
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.AssemblyInfo.cs
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.csproj.CoreCompileInputs.cache
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\refint\Academic-Blog.Domain.dll
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.pdb
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\Academic-Blog.Domain.genruntimeconfig.cache
+E:\GitHub\Teams GitHub Projects\academic-blog-backend\Academic-Blog.Domain\obj\Debug\net7.0\ref\Academic-Blog.Domain.dll

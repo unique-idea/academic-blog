@@ -1,0 +1,59 @@
+﻿@page
+@model Academic_Blog_App.Pages.BlogPage.ViewAllBlogModel
+@{
+}
+
+<style>
+    .blog-item {
+        display: flex;
+        align-items: center;
+        margin-bottom: 50px;
+    }
+
+    .image-blog {
+        flex: 2;
+        margin-right: 40px;
+        height: 160px;
+    }
+
+    .body-blog {
+        flex: 3; 
+        height: 160px;
+        width: auto;
+        padding-left: 50px;
+        border: 1px solid black;
+        text-align: center;
+        justify-content: center;
+        word-wrap: break-word;
+    }
+
+</style>
+
+<div class="body_bg layout_padding">
+    <section class="service_section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8">
+                    @foreach (var item in Model.Blogs)
+                    {
+                        <div class="blog-item">
+                            <div class="image-blog">
+                                <img class="img-box" src="~/@item.Thumbnal_Url" alt="" style="height: 100%; display: block; margin: auto" />
+                            </div>
+                            <div class="body-blog box">
+                                <a class="nav-link" href="/BlogPage/ViewBlogDetail?blogId={@item.Id}&authorId={@item.AuthorId}" style="color: #e9a21a; padding: 0; border: 0">
+                                    <h4>
+                                        @item.Title
+                                    </h4>
+                                </a>
+                                <p>
+                                    @item.ShortDescription
+                                </p>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
